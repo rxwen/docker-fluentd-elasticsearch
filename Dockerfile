@@ -1,3 +1,5 @@
+# https://github.com/fluent/fluentd-docker-image
+
 FROM fluent/fluentd
 MAINTAINER Raymond Wen
 
